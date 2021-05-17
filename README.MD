@@ -6,6 +6,7 @@
 <a href="https://eslint.org/"><img src="https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=8080F2" height="25"></a>
 <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-C21325.svg?&logo=jest" height="25"></a>
 <a href="https://babeljs.io/"><img src="https://img.shields.io/badge/Babel-black.svg?&logo=babel&style=flat&style=plastic" height="25"></a>
+<a href><img src="https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white" height="25" ></a>
 </p>
 
 ---
